@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\madga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\madga\\.nuget\\packages"
+    ]
+  }
+}
